@@ -20,7 +20,7 @@ const AboutMe = ({ heading, message, link, imgSize, resume }) => {
   }, [link]);
 
   const handleRequest = async () => {
-    const instaLink = "https://www.instagram.com/";
+    const instaLink = "https://www.instagram.com/deepika._16/";
     const instaQuery = "/?__a=1";
     try {
       const response = await axios.get(instaLink + link + instaQuery);

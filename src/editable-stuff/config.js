@@ -13,20 +13,20 @@ const mainBody = {
   icons: [
     {
       image: "fa-github",
-      url: " ",
+      url: "https://github.com/deepikachudi16",
     },
     {
       image: "fa-instagram",
-      url: " ",
+      url: "https://www.instagram.com/deepika._16/",
     },
     {
       image: "fa-linkedin",
-      url: " ",
+      url: "https://www.linkedin.com/in/deepikareddychudi/",
     },
-    {
-      image: "fa-twitter",
-      url: " ",
-    },
+    // {
+    //   image: "fa-twitter",
+    //   url: " ",
+    // },
   ],
 };
 
@@ -173,10 +173,11 @@ const experiences = [
     "title": "Web Developer",
     "years": "Jan 2018 - Dec 2018",
     "mainTech": [
-      "SASS, Angular  JS"
+      "SASS, Javascript, Angular JS"
     ],
     "technologies": [
-      "Angular JS",
+      "Express JS",
+      "React",
       "Rest API",
       "SQL"
       
